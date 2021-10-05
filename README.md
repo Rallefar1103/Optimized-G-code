@@ -1,5 +1,5 @@
 # P4-project
-Our 4th semester project, in which we make a compiler to create a higher level language than G-code.
+Our 4th semester project, in which we made a compiler to create a higher level language than G-code.
 
 Choose "Release" in Rider (the button right of the hammer and left of the "play" button)
 Then compile the program, pressing the hammer.
